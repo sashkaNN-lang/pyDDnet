@@ -3,7 +3,7 @@ pyDDnet
 
 Клон DDnet на Python — потому что почему бы и нет?
 
-Made by Claude (Free tier) и DeepSeek (Free tier)
+Made by Claude Free и DeepSeek Free
 
 
 УСТАНОВКА
