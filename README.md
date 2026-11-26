@@ -1,2 +1,3 @@
 # pyDDnet
-ddnet копия в python
+DDnet копия в python
+Кстате made by cloude free
